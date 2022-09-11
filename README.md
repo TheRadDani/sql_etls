@@ -1,6 +1,6 @@
 ```mermaid
 graph TD;
-    Develop<tickett>-->Develop;
+    Developticket-->Develop;
     A-->C;
     B-->D;
     Develop-->main;
