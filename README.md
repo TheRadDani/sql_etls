@@ -2,7 +2,7 @@
 gitGraph
        commit
        commit
-       branch develop
+       branch develop2
        commit
        commit
        commit
