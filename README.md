@@ -7,6 +7,7 @@ graph TD;
 
 ```mermaid
 gitGraph
+        commit
        branch develop
        commit
        commit
