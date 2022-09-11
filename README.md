@@ -4,7 +4,8 @@ graph TD;
     
     Develop-->main;
 ```
-```
+
+```mermaid
 gitGraph
        commit
        commit
