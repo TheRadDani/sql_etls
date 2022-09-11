@@ -1,12 +1,7 @@
 ```mermaid
-gitGraph
-       commit
-       commit
-       branch develop2
-       commit
-       commit
-       commit
-       checkout main
-       commit
-       commit
+graph TD;
+    Develop<tickett>-->Develop;
+    A-->C;
+    B-->D;
+    Develop-->main;
 ```
