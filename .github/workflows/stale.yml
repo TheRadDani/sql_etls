@@ -1,5 +1,10 @@
 name: Automatic pull request review
-on: [pull_request]
+on: 
+    pull_request:
+    push:
+      branches:
+        - 'master'
+        - 'develop'
 jobs:
   automate-pullrequest-review:
     runs-on: ubuntu-latest
