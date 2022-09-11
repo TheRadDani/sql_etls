@@ -1,10 +1,7 @@
-    gitGraph
-       commit
-       commit
-       branch develop
-       commit
-       commit
-       commit
-       checkout master
-       commit
-       commit
+   ```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
